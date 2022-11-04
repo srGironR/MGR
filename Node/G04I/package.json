@@ -1,0 +1,16 @@
+{
+  "name": "g04i",
+  "version": "1.0.0",
+  "description": "proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "ejecutar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "melissa giron",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
