@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6370ef19e6620cc673652b1e"
+  },
+  "titulo": "Titanic",
+  "tipo": "Pelicula",
+  "genero": "Romance",
+  "año": "1997",
+  "duracion": 195,
+  "created_at": "2022-11-12",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Leonardo Di Caprio"
+    },
+    {
+      "nombre": "Kate Winslet"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6371715358ee4060a2bb60ec"
+  },
+  "titulo": "Terminator",
+  "tipo": "Pelicula",
+  "genero": "Ciencia Ficción",
+  "año": "1984",
+  "duracion": 108,
+  "created_at": "2022-11-12",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Arnold Schwarzeneger"
+    },
+    {
+      "nombre": "Linda Hamilton"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "637286f59eb3dbaa58747fe5"
+  },
+  "titulo": "La Momia",
+  "tipo": "Pelicula",
+  "genero": "Aventura",
+  "año": "1999",
+  "duracion": 124,
+  "created_at": "2022-11-14",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Brendan Fraser"
+    },
+    {
+      "nombre": "Rachel Weisz"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "637288859eb3dbaa58747ff5"
+  },
+  "titulo": "El Viaje de Chihiro",
+  "tipo": "Pelicula",
+  "genero": "Fantasía",
+  "año": "2001",
+  "duracion": 125,
+  "created_at": "2022-11-14",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Rumi Hiiragi"
+    },
+    {
+      "nombre": "Miyu Irino"
+    }
+  ]
+}]

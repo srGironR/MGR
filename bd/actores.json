@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6371722a58ee4060a2bb60f4"
+  },
+  "nombre": "Arnold Schwarzeneger"
+},{
+  "_id": {
+    "$oid": "6371724f58ee4060a2bb60f5"
+  },
+  "nombre": "Linda Hamilton"
+},{
+  "_id": {
+    "$oid": "6371727558ee4060a2bb60f6"
+  },
+  "nombre": "Leonardo Di Caprio"
+},{
+  "_id": {
+    "$oid": "6371728958ee4060a2bb60f7"
+  },
+  "nombre": "Kate Winslet"
+},{
+  "_id": {
+    "$oid": "637287279eb3dbaa58747feb"
+  },
+  "nombre": "Brendan Fraser"
+},{
+  "_id": {
+    "$oid": "637287439eb3dbaa58747fec"
+  },
+  "nombre": "Rachel Weisz"
+},{
+  "_id": {
+    "$oid": "637288ab9eb3dbaa58747ffb"
+  },
+  "nombre": "Miyu Irino"
+},{
+  "_id": {
+    "$oid": "637288b29eb3dbaa58747ffc"
+  },
+  "nombre": "Rumi Hiiragi"
+}]

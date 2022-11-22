@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "637171b758ee4060a2bb60f0"
+  },
+  "nombre": "Romance"
+},{
+  "_id": {
+    "$oid": "637171ea58ee4060a2bb60f1"
+  },
+  "nombre": "Ciencia Ficción"
+},{
+  "_id": {
+    "$oid": "637287189eb3dbaa58747fe8"
+  },
+  "nombre": "Aventura"
+},{
+  "_id": {
+    "$oid": "637288939eb3dbaa58747ff8"
+  },
+  "nombre": "Fantasía"
+}]
