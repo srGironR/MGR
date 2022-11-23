@@ -5,7 +5,6 @@
   "titulo": "Titanic",
   "tipo": "Pelicula",
   "genero": "Romance",
-  "año": "1997",
   "duracion": 195,
   "created_at": "2022-11-12",
   "creado_por": "admin",
@@ -16,7 +15,9 @@
     {
       "nombre": "Kate Winslet"
     }
-  ]
+  ],
+  "imagen": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+  "ano": "1997"
 },{
   "_id": {
     "$oid": "6371715358ee4060a2bb60ec"
@@ -24,7 +25,6 @@
   "titulo": "Terminator",
   "tipo": "Pelicula",
   "genero": "Ciencia Ficción",
-  "año": "1984",
   "duracion": 108,
   "created_at": "2022-11-12",
   "creado_por": "admin",
@@ -35,7 +35,9 @@
     {
       "nombre": "Linda Hamilton"
     }
-  ]
+  ],
+  "imagen": "https://i.pinimg.com/originals/2e/f8/b0/2ef8b03f027940871564e747e74c4df2.jpg",
+  "ano": "1984"
 },{
   "_id": {
     "$oid": "637286f59eb3dbaa58747fe5"
@@ -43,7 +45,6 @@
   "titulo": "La Momia",
   "tipo": "Pelicula",
   "genero": "Aventura",
-  "año": "1999",
   "duracion": 124,
   "created_at": "2022-11-14",
   "creado_por": "admin",
@@ -54,7 +55,9 @@
     {
       "nombre": "Rachel Weisz"
     }
-  ]
+  ],
+  "imagen": "https://es.web.img3.acsta.net/r_1280_720/pictures/14/02/10/09/31/318628.jpg",
+  "ano": "1999"
 },{
   "_id": {
     "$oid": "637288859eb3dbaa58747ff5"
@@ -62,7 +65,6 @@
   "titulo": "El Viaje de Chihiro",
   "tipo": "Pelicula",
   "genero": "Fantasía",
-  "año": "2001",
   "duracion": 125,
   "created_at": "2022-11-14",
   "creado_por": "admin",
@@ -73,5 +75,47 @@
     {
       "nombre": "Miyu Irino"
     }
-  ]
+  ],
+  "imagen": "https://ramenparados.com/wp-content/uploads/2021/05/POSTER_CHIHIRO_2021.jpg",
+  "ano": "2001"
+},{
+  "_id": {
+    "$oid": "637d5a20f05ecf27615cffe6"
+  },
+  "titulo": "El diario de Bridget Jones",
+  "tipo": "Pelicula",
+  "genero": "comedia",
+  "duracion": 97,
+  "created_at": "2022-11-22",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Hugh Grant"
+    },
+    {
+      "nombre": "Renée Zellweger"
+    }
+  ],
+  "imagen": "https://es.web.img2.acsta.net/pictures/14/02/19/10/39/284080.jpg",
+  "ano": "2001"
+},{
+  "_id": {
+    "$oid": "637d5c56f05ecf27615cfff0"
+  },
+  "titulo": "El silencio de los inocentes",
+  "tipo": "Pelicula",
+  "genero": "suspenso",
+  "duracion": 118,
+  "created_at": "2022-11-22",
+  "creado_por": "admin",
+  "actores": [
+    {
+      "nombre": "Jodie Foster"
+    },
+    {
+      "nombre": "Anthony Hopkinsr"
+    }
+  ],
+  "imagen": "https://www.themoviedb.org/t/p/original/9MWLKbEGHhPQNUzjxB5mHrTdUu6.jpg",
+  "ano": "1991"
 }]

@@ -18,4 +18,9 @@
     "$oid": "637288939eb3dbaa58747ff8"
   },
   "nombre": "Fantasía"
+},{
+  "_id": {
+    "$oid": "637d5a31f05ecf27615cffe9"
+  },
+  "nombre": "Comedia"
 }]

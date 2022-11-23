@@ -38,4 +38,14 @@
     "$oid": "637288b29eb3dbaa58747ffc"
   },
   "nombre": "Rumi Hiiragi"
+},{
+  "_id": {
+    "$oid": "637d5a44f05ecf27615cffec"
+  },
+  "nombre": "Hugh Grant"
+},{
+  "_id": {
+    "$oid": "637d5a52f05ecf27615cffed"
+  },
+  "nombre": "Renée Zellweger"
 }]
