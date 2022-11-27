@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "638299210b5d5ee6e47f7b05"
+  },
+  "correo": "admin@correo.com",
+  "contrasena": "abc123",
+  "nombre": "Melissa Giron"
+},{
+  "_id": {
+    "$oid": "6382c3e5839c82a4ff42f43d"
+  },
+  "correo": "correopaula@correo.com",
+  "contrasena": "$2a$10$wvRerTTOP.kr9hpkGUsoE.4I.YHg0Xpop0MVV2Z1JIrTZSFLg56dO",
+  "nombre": "Paula G",
+  "__v": 0
+}]
